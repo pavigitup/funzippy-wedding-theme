@@ -1,0 +1,41 @@
+body {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: #B1AFFD !important;
+}
+
+.reception {
+    width: 80%;
+    position: relative;
+    top: 30%;
+    text-align: center;
+}
+
+.ceremony {
+    width: 80%;
+    position: relative;
+    top: 60%;
+    text-align: center;
+}
+
+.party {
+    width: 80%;
+    position: relative;
+    top: 90%;
+}
+
+.girlhand {
+    position: absolute;
+    width: 100%;
+}
+
+.content {
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
